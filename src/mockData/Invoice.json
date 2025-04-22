@@ -1,0 +1,50 @@
+[
+  {
+    "invoiceNumber": "INV1001",
+    "invoiceDate": "2025-04-01",
+    "customerName": "Rajesh Sharma",
+    "vehicleNumber": "MH12AB1234",
+    "vehicleModel": "Hero Splendor Plus",
+    "vehicleType": "Two Wheeler",
+    "engineNumber": "ENGHSP1001",
+    "chassisNumber": "CHSHSP1001",
+    "billingAddress": "Pune, Maharashtra",
+    "amount": 55000,
+    "taxPercent": 18,
+    "taxAmount": 9900,
+    "totalAmount": 64900,
+    "paymentMode": "Cash"
+  },
+  {
+    "invoiceNumber": "INV1002",
+    "invoiceDate": "2025-04-02",
+    "customerName": "Priya Mehta",
+    "vehicleNumber": "DL8CAF4567",
+    "vehicleModel": "Maruti Suzuki Swift",
+    "vehicleType": "Four Wheeler",
+    "engineNumber": "ENGMSW2002",
+    "chassisNumber": "CHSMSW2002",
+    "billingAddress": "New Delhi",
+    "amount": 670000,
+    "taxPercent": 18,
+    "taxAmount": 120600,
+    "totalAmount": 790600,
+    "paymentMode": "UPI"
+  },
+  {
+    "invoiceNumber": "INV1003",
+    "invoiceDate": "2025-04-03",
+    "customerName": "Amitabh Verma",
+    "vehicleNumber": "KA03MK1234",
+    "vehicleModel": "Royal Enfield Classic 350",
+    "vehicleType": "Two Wheeler",
+    "engineNumber": "ENGRE3503",
+    "chassisNumber": "CHSRE3503",
+    "billingAddress": "Bangalore, Karnataka",
+    "amount": 210000,
+    "taxPercent": 18,
+    "taxAmount": 37800,
+    "totalAmount": 247800,
+    "paymentMode": "Card"
+  }
+]
